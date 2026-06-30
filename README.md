@@ -25,6 +25,7 @@ It reads candidate information from multiple sources, normalizes the data, merge
 - CLI-based Execution
 
 ---
+Supports resume parsing from TXT, PDF, and DOCX formats using format-specific readers and a shared parsing engine. The parser automatically detects the available resume format in the input directory.
 
 ## Project Structure
 
